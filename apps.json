@@ -1,0 +1,121 @@
+[
+  {
+    "title": "CookieScan",
+    "description": "A clean block explorer interface for tracking COOK blocks, transactions, and accounts.",
+    "tag": "Infra",
+    "href": "https://cookiescan.io/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookiescan.jpeg"
+  },
+  {
+    "title": "Native Bridge",
+    "description": "Community-built bridge infrastructure for moving assets between COOK and Solana chain.",
+    "tag": "Infra",
+    "href": "https://bridge.cookiescan.io/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bridge.png"
+  },
+  {
+    "title": "Nightly Wallet",
+    "description": "The first COOK supported wallet. A simple, secure, and cross-chain wallet for crypto users.",
+    "tag": "Wallet",
+    "href": "https://nightly.app/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/nightly.png"
+  },
+  {
+    "title": "Staking",
+    "description": "Stake your COOK tokens to support network security and earn rewards. Simple, secure, and built for the community.",
+    "tag": "Infra",
+    "href": "https://stake.cookiescan.io/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/stake.png"
+  },
+  {
+    "title": "CookieSwap",
+    "description": "Native DeFi powerhouse for swaps, liquidity, and yield in the COOK ecosystem.",
+    "tag": "DeFi",
+    "href": "https://cookieswap.fun",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookieswap.png"
+  },
+  {
+    "title": "Candy Shop",
+    "description": "Aggregator of the best routes across DeFi apps on Cookie Chain.",
+    "tag": "DeFi",
+    "href": "https://swap.cookiescan.io",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/candy.png"
+  },
+  {
+    "title": "Cookie Quads",
+    "description": "Squads v4 Multisig fork on Cookie Chain. Secure, flexible, and built for the community.",
+    "tag": "Infra",
+    "href": "https://sig.cookiechain.wtf/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/quads.png"
+  },
+  {
+    "title": "CookieBox",
+    "description": "Liquidity Hub on Cookie Chain. Create pools, launch tokens, and claim fees.",
+    "tag": "DeFi",
+    "href": "https://cookiebox.app/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookieoralogo.png"
+  },
+  {
+    "title": "CookieScan DAS API",
+    "description": "Public DAS Service for COOK. Provides enriched, indexed blockchain data for developers and projects building on the ecosystem.",
+    "tag": "Infra",
+    "href": "https://api.cookiescan.io/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/das.png"
+  },
+  {
+    "title": "Bang",
+    "description": "A token launchpad for degens, communities, and builders to create and distribute tokens on COOK.",
+    "tag": "DeFi",
+    "href": "https://banggor.com/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bang.jpeg"
+  },
+  {
+    "title": "Morsel Wallet",
+    "description": "The native home of Cookie Chain assets. Collect, trade, and explore the ecosystem at full speed. SOL, USDC and sCOOK included.",
+    "tag": "Wallet",
+    "href": "https://morselwallet.app/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/morsel.png"
+  },
+  {
+    "title": "CookOven",
+    "description": "The hub for dApps on Cookie Chain. Discover domains, locking, marketplaces and the next generation of web3 tools, all in one place.",
+    "tag": "DeFi",
+    "href": "https://cookoven.xyz",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookoven.png"
+  },
+  {
+    "title": "CookBook",
+    "description": "CookBook is the on-chain domain platform for Cookie Chain. Users can mint their own .cook domain, manage their domains, transfer domains to another wallet, and set a primary domain.",
+    "tag": "Infra",
+    "href": "https://book.cookoven.xyz",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookBook.png"
+  },
+  {
+    "title": "Cookie Lock",
+    "description": "Cookie Vault brings token locks and vesting to Cookie Chain with full SPL & Token-2022 support.",
+    "tag": "Infra",
+    "href": "https://lock.cookoven.xyz",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cooklock.png"
+  },
+  {
+    "title": "GORBOY",
+    "description": "Gamified meme token on Cookie Chain. A fun and community-driven project exploring the lighter side of the COOK ecosystem.",
+    "tag": "Meme",
+    "href": "https://gorboy.com",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorboy.png"
+  },
+  {
+    "title": "Sesamians",
+    "description": "Leading NFT Collection on Cookie Chain. A community-driven project exploring identity and culture in the COOK ecosystem.",
+    "tag": "NFT",
+    "href": "https://sesamians.art",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/sesamians.png"
+  },
+  {
+    "title": "Baked Bazaar",
+    "description": "NFT marketplace on Cookie Chain. Trade, collect, and celebrate with the GOR community.",
+    "tag": "NFT",
+    "href": "https://bakedbazaar.art/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bakedbazaar.png"
+  }
+]
