@@ -117,5 +117,12 @@
     "tag": "NFT",
     "href": "https://bakedbazaar.art/",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bakedbazaar.png"
+  },
+  {
+    "title": "GorWeld",
+    "description": "Welder-built browser welding sim — MIG/TIG/MMA plus oxy & plasma cutting — with Burn Relics NFTs and the Dumpster Forge. $GORWELDD rewards coming.",
+    "tag": "Meme",
+    "href": "https://gorweld.com",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorweld.png"
   }
 ]
