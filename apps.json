@@ -21,6 +21,13 @@
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/nightly.png"
   },
   {
+    "title": "DefiLlama",
+    "description": "DeFi analytics dashboard tracking total value locked (TVL), volumes, and protocol metrics across Cookie Chain.",
+    "tag": "Infra",
+    "href": "https://defillama.com/chain/cookiechain",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/defillama.png"
+  },
+  {
     "title": "Staking",
     "description": "Stake your COOK tokens to support network security and earn rewards. Simple, secure, and built for the community.",
     "tag": "Infra",
