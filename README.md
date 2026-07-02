@@ -71,7 +71,8 @@ Example:
   "description": "Short description of the project.",
   "tag": "DeFi",
   "href": "https://myapp.xyz",
-  "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/myapp.png"
+  "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/myapp.png",
+  "live":false
 }
 ```
 
