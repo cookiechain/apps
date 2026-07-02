@@ -28,7 +28,8 @@ Example:
   "description": "Native DeFi powerhouse for swaps, liquidity, and yield in the COOK ecosystem.",
   "tag": "DeFi",
   "href": "https://cookieswap.fun",
-  "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookieswap.png"
+  "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookieswap.png",
+  "live": true
 }
 ```
 
