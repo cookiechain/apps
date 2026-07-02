@@ -56,6 +56,14 @@
     "live": true
   },
   {
+    "title": "Metaplex",
+    "description": "The standard for launching tokens and NFTs on Solana and the SVM.",
+    "tag": "Infra",
+    "href": "https://www.metaplex.com/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/metaplex.png",
+    "live": true
+  },
+  {
     "title": "Cookie Quads",
     "description": "Squads v4 Multisig fork on Cookie Chain. Secure, flexible, and built for the community.",
     "tag": "Infra",
