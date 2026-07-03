@@ -4,6 +4,7 @@
     "description": "A clean block explorer interface for tracking COOK blocks, transactions, and accounts.",
     "tag": "Infra",
     "href": "https://cookiescan.io/",
+    "x": "https://x.com/cookiescanio",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookiescan.png",
     "live": true
   },
@@ -12,6 +13,7 @@
     "description": "Community-built bridge infrastructure for moving assets between COOK and Solana chain.",
     "tag": "Infra",
     "href": "https://bridge.cookiescan.io/",
+    "x": "https://x.com/cookiescanio",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bridge.png",
     "live": true
   },
@@ -20,6 +22,7 @@
     "description": "The first COOK supported wallet. A simple, secure, and cross-chain wallet for crypto users.",
     "tag": "Wallet",
     "href": "https://nightly.app/",
+    "x": "https://x.com/Nightly_app",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/nightly.png",
     "live": true
   },
@@ -28,6 +31,7 @@
     "description": "DeFi analytics dashboard tracking total value locked (TVL), volumes, and protocol metrics across Cookie Chain.",
     "tag": "Infra",
     "href": "https://defillama.com/chain/cookiechain",
+    "x": "https://x.com/DefiLlama",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/defillama.png",
     "live": true
   },
@@ -36,6 +40,7 @@
     "description": "Stake your COOK tokens to support network security and earn rewards. Simple, secure, and built for the community.",
     "tag": "Infra",
     "href": "https://stake.cookiescan.io/",
+    "x": "https://x.com/cookiescanio",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/stake.png",
     "live": false
   },
@@ -44,6 +49,7 @@
     "description": "Native DeFi powerhouse for swaps, liquidity, and yield in the COOK ecosystem.",
     "tag": "DeFi",
     "href": "https://cookieswap.fun",
+    "x": "https://x.com/cookieswapapp",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookieswap.png",
     "live": true
   },
@@ -52,6 +58,7 @@
     "description": "Aggregator of the best routes across DeFi apps on Cookie Chain.",
     "tag": "DeFi",
     "href": "https://swap.cookiescan.io",
+    "x": "https://x.com/cookiescanio",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/candy.png",
     "live": true
   },
@@ -60,6 +67,7 @@
     "description": "The standard for launching tokens and NFTs on Solana and the SVM.",
     "tag": "Infra",
     "href": "https://www.metaplex.com/",
+    "x": "https://x.com/metaplex",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/metaplex.png",
     "live": true
   },
@@ -68,6 +76,7 @@
     "description": "Squads v4 Multisig fork on Cookie Chain. Secure, flexible, and built for the community.",
     "tag": "Infra",
     "href": "https://sig.cookiechain.wtf/",
+    "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/quads.png",
     "live": true
   },
@@ -76,6 +85,7 @@
     "description": "Liquidity Hub on Cookie Chain. Create pools, launch tokens, and claim fees.",
     "tag": "DeFi",
     "href": "https://cookiebox.app/",
+    "x": "https://x.com/CookieBoxLP",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookiebox.png",
     "live": true
   },
@@ -84,6 +94,7 @@
     "description": "Public DAS Service for COOK. Provides enriched, indexed blockchain data for developers and projects building on the ecosystem.",
     "tag": "Infra",
     "href": "https://api.cookiescan.io/",
+    "x": "https://x.com/cookiescanio",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/das.png",
     "live": true
   },
@@ -100,6 +111,7 @@
     "description": "The native home of Cookie Chain assets. Collect, trade, and explore the ecosystem at full speed. SOL, USDC and sCOOK included.",
     "tag": "Wallet",
     "href": "https://morselwallet.app/",
+    "x": "https://x.com/MorselWallet",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/morsel.png",
     "live": false
   },
@@ -108,6 +120,7 @@
     "description": "The hub for dApps on Cookie Chain. Discover domains, locking, marketplaces and the next generation of web3 tools, all in one place.",
     "tag": "DeFi",
     "href": "https://cookoven.xyz",
+    "x": "https://x.com/CookOvenApps",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookoven.png",
     "live": true
   },
@@ -116,6 +129,7 @@
     "description": "CookBook is the on-chain domain platform for Cookie Chain. Users can mint their own .cook domain, manage their domains, transfer domains to another wallet, and set a primary domain.",
     "tag": "Infra",
     "href": "https://book.cookoven.xyz",
+    "x": "https://x.com/CookOvenApps",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookBook.png",
     "live": true
   },
@@ -124,6 +138,7 @@
     "description": "Cookie Vault brings token locks and vesting to Cookie Chain with full SPL & Token-2022 support.",
     "tag": "Infra",
     "href": "https://lock.cookoven.xyz",
+    "x": "https://x.com/CookOvenApps",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cooklock.png",
     "live": true
   },
@@ -132,6 +147,7 @@
     "description": "Gamified meme token on Cookie Chain. A fun and community-driven project exploring the lighter side of the COOK ecosystem.",
     "tag": "Meme",
     "href": "https://gorboy.com",
+    "x": "https://x.com/GORBOY_OFFICIAL",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorboy.png",
     "live": true
   },
@@ -148,6 +164,7 @@
     "description": "NFT marketplace on Cookie Chain. Trade, collect, and celebrate with the Cookie Chain community.",
     "tag": "NFT",
     "href": "https://bakedbazaar.art/",
+    "x": "https://x.com/bakedbazaarArt",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bakedbazaar.png",
     "live": true
   },
@@ -156,6 +173,7 @@
     "description": "Welder-built browser welding sim — MIG/TIG/MMA plus oxy & plasma cutting — with Burn Relics NFTs and the Dumpster Forge. $GORWELDD rewards coming.",
     "tag": "Meme",
     "href": "https://gorweld.com",
+    "x": "https://x.com/GorWeld",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorweld.png",
     "live": false
 }
