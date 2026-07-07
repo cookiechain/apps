@@ -36,13 +36,13 @@
     "live": true
   },
   {
-    "title": "Staking",
+    "title": "Bake Your Stake",
     "description": "Stake your COOK tokens to support network security and earn rewards. Simple, secure, and built for the community.",
     "tag": "Infra",
-    "href": "https://stake.cookiescan.io/",
-    "x": "https://x.com/cookiescanio",
-    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/stake.png",
-    "live": false
+    "href": "https://bakeyourstake.xyz/",
+    "x": "https://x.com/TheCookieChain",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bakeyourstake.png",
+    "live": true
   },
   {
     "title": "CookieSwap",
