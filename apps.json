@@ -9,12 +9,12 @@
     "live": true
   },
   {
-    "title": "Native Bridge",
-    "description": "Community-built bridge infrastructure for moving assets between COOK and Solana chain.",
+    "title": "Hyperlane Bridge",
+    "description": "Move your COOK tokens between Solana and Cookie Chain, powered by Hyperlane.",
     "tag": "Infra",
-    "href": "https://bridge.cookiescan.io/",
-    "x": "https://x.com/cookiescanio",
-    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bridge.png",
+    "href": "https://hyperlane.cookiechain.wtf/",
+    "x": "https://x.com/TheCookieChain",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/hyperlane.png",
     "live": true
   },
   {
