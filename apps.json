@@ -168,13 +168,22 @@
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bakedbazaar.png",
     "live": true
   },
-{
-    "title": "GorWeld",
-    "description": "Welder-built browser welding sim — MIG/TIG/MMA plus oxy & plasma cutting — with Burn Relics NFTs and the Dumpster Forge. $GORWELDD rewards coming.",
-    "tag": "Meme",
-    "href": "https://gorweld.com",
-    "x": "https://x.com/GorWeld",
-    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorweld.png",
-    "live": false
-}
+  {
+      "title": "GorWeld",
+      "description": "Welder-built browser welding sim — MIG/TIG/MMA plus oxy & plasma cutting — with Burn Relics NFTs and the Dumpster Forge. $GORWELDD rewards coming.",
+      "tag": "Meme",
+      "href": "https://gorweld.com",
+      "x": "https://x.com/GorWeld",
+      "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/gorweld.png",
+      "live": false
+  },
+  {
+    "title": "Cookie MCP",
+    "description": "An MCP server that gives AI agents full onchain access to Cookie Chain — trade, launch, LP, stake, and bridge.",
+    "tag": "Infra",
+    "href": "https://github.com/cookiechain/cookie-mcp",
+    "x": "https://x.com/TheCookieChain",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
+    "live": true
+  }
 ]
