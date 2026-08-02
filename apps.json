@@ -144,6 +144,15 @@
     "live": true
   },
   {
+    "title": "Cookie Chat",
+    "description": "AI assistant for Cookie Chain.",
+    "tag": "AI",
+    "href": "https://cookiechat.net/",
+    "x": "https://x.com/askCookieChat",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-chat.png",
+    "live": true
+  },
+  {
     "title": "GORBOY",
     "description": "Gamified meme token on Cookie Chain. A fun and community-driven project exploring the lighter side of the COOK ecosystem.",
     "tag": "Meme",
