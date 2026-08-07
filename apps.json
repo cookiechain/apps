@@ -82,7 +82,7 @@
   },
   {
     "title": "Cookiebox",
-    "description": "Liquidity Hub on Cookie Chain. Create pools, claim fees, and manage LP positions.",
+    "description": "Liquidity Hub on Cookie Chain. Create pools, claim fees, swap tokens, and manage LP positions.",
     "tag": "DeFi",
     "href": "https://cookiebox.app/",
     "x": "https://x.com/CookieboxLP",
@@ -105,7 +105,7 @@
     "href": "https://www.momoswap.fun/",
     "x": "https://x.com/momoswapdotfun",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/momoswap.png",
-    "live": true
+    "live": false
   },
   {
     "title": "Morsel Wallet",
