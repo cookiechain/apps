@@ -195,5 +195,14 @@
     "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
     "live": true
+  },
+  {
+    "title": "Crumbs",
+    "description": "The utility app for Cookie Chain: holder snapshots, airdrops, token account cleanup, and Crumb Clicker, an idle game where every click is a transaction and play mints CRUMB.",
+    "tag": "Infra",
+    "href": "https://crumbs-cookie.vercel.app/",
+    "x": "https://x.com/0xWolfur",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/crumbs.png",
+    "live": true
   }
 ]
