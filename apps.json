@@ -195,5 +195,14 @@
     "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
     "live": true
+  },
+  {
+    "title": "Cookie Jar — Bake & Tip",
+    "description": "Burn native COOK forever and tip friends by wallet or .cook name. Every bake lands on the public Bake Feed — all read directly from the Cookie Chain RPC.",
+    "tag": "Tools & Infrastructure",
+    "href": "https://cookie-jar-chi.vercel.app",
+    "x": "https://x.com/KryptoRu",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-jar.png",
+    "live": true
   }
 ]
