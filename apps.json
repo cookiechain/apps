@@ -195,5 +195,13 @@
     "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
     "live": true
+  },
+  {
+    "title": "Crumbs Send",
+    "description": "Nightly COOK memo send on Cookie Chain. Resolves .cook names on-chain and refuses CookOven market escrow so listed names cannot strand COOK.",
+    "tag": "Wallet",
+    "href": "https://hayderncenterpoint.github.io/crumbs-cookie-chain/",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/crumbs-send.png",
+    "live": true
   }
 ]
