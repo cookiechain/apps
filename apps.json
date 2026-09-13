@@ -198,7 +198,7 @@
   },
   {
     "title": "Crumbs",
-    "description": "The utility app for Cookie Chain: holder snapshots, airdrops, token account cleanup, swaps by link, .cook names wherever an address goes, and Crumb Clicker, an idle game where every click is a transaction and play mints CRUMB.",
+    "description": "The utility app for Cookie Chain: holder snapshots, airdrops, NFT drops with the picture stored on chain, token account cleanup, swaps by link, .cook names wherever an address goes, and Crumb Clicker, an idle game where every click is a transaction and play mints CRUMB.",
     "tag": "Infra",
     "href": "https://crumbs-cookie.vercel.app/",
     "x": "https://x.com/0xWolfur",
