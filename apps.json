@@ -105,7 +105,7 @@
     "href": "https://www.momoswap.fun/",
     "x": "https://x.com/momoswapdotfun",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/momoswap.png",
-    "live": false
+    "live": true
   },
   {
     "title": "Morsel Wallet",
