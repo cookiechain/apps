@@ -190,10 +190,28 @@
   {
     "title": "Cookie MCP",
     "description": "An MCP server that gives AI agents full onchain access to Cookie Chain — trade, launch, LP, stake, and bridge.",
-    "tag": "Infra",
+    "tag": "AI",
     "href": "https://github.com/cookiechain/cookie-mcp",
     "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
+    "live": true
+  },
+  {
+    "title": "Cookie Chads",
+    "description": "PFP collection of 1,111 Chads on Cookie Chain. Collect, trade on Baked Bazaar, and get a seat at Dice Club.",
+    "tag": "NFT",
+    "href": "https://chads.cookiebox.app/",
+    "x": "https://x.com/cookiechads",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-chads.png",
+    "live": true
+  },
+  {
+    "title": "Dice Club",
+    "description": "Provably fair on-chain dice, members-only for Cookie Chads holders. Pick your odds, stake COOK, and roll.",
+    "tag": "Gaming",
+    "href": "https://diceclub.cookiebox.app/",
+    "x": "https://x.com/cookiechads",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/dice-club.png",
     "live": true
   }
 ]

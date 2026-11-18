@@ -55,6 +55,8 @@ Current ecosystem categories include:
 * Infra
 * NFT
 * Meme
+* AI
+* Gaming
 
 Additional categories may be added as the ecosystem grows.
 
